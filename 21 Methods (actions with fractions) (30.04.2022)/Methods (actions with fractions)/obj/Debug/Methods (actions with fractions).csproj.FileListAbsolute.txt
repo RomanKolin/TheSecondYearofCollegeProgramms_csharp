@@ -1,0 +1,20 @@
+C:\Users\roman\Downloads\Methods (actions with fractions)\Methods (actions with fractions)\bin\Debug\Methods (actions with fractions).exe.config
+C:\Users\roman\Downloads\Methods (actions with fractions)\Methods (actions with fractions)\bin\Debug\Methods (actions with fractions).exe
+C:\Users\roman\Downloads\Methods (actions with fractions)\Methods (actions with fractions)\bin\Debug\Methods (actions with fractions).pdb
+C:\Users\roman\Downloads\Methods (actions with fractions)\Methods (actions with fractions)\obj\Debug\Methods (actions with fractions).csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Methods (actions with fractions)\Methods (actions with fractions)\obj\Debug\Methods__actions_with_fractions_.Form1actionswithfractions.resources
+C:\Users\roman\Downloads\Methods (actions with fractions)\Methods (actions with fractions)\obj\Debug\Methods__actions_with_fractions_.Properties.Resources.resources
+C:\Users\roman\Downloads\Methods (actions with fractions)\Methods (actions with fractions)\obj\Debug\Methods (actions with fractions).csproj.GenerateResource.cache
+C:\Users\roman\Downloads\Methods (actions with fractions)\Methods (actions with fractions)\obj\Debug\Methods (actions with fractions).csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Methods (actions with fractions)\Methods (actions with fractions)\obj\Debug\Methods (actions with fractions).exe
+C:\Users\roman\Downloads\Methods (actions with fractions)\Methods (actions with fractions)\obj\Debug\Methods (actions with fractions).pdb
+C:\Users\roman\Downloads\Methods (actions with fractions) (27.04.2022)\Methods (actions with fractions)\bin\Debug\Methods (actions with fractions).exe.config
+C:\Users\roman\Downloads\Methods (actions with fractions) (27.04.2022)\Methods (actions with fractions)\bin\Debug\Methods (actions with fractions).exe
+C:\Users\roman\Downloads\Methods (actions with fractions) (27.04.2022)\Methods (actions with fractions)\bin\Debug\Methods (actions with fractions).pdb
+C:\Users\roman\Downloads\Methods (actions with fractions) (27.04.2022)\Methods (actions with fractions)\obj\Debug\Methods (actions with fractions).csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Methods (actions with fractions) (27.04.2022)\Methods (actions with fractions)\obj\Debug\Methods__actions_with_fractions_.Form1actionswithfractions.resources
+C:\Users\roman\Downloads\Methods (actions with fractions) (27.04.2022)\Methods (actions with fractions)\obj\Debug\Methods__actions_with_fractions_.Properties.Resources.resources
+C:\Users\roman\Downloads\Methods (actions with fractions) (27.04.2022)\Methods (actions with fractions)\obj\Debug\Methods (actions with fractions).csproj.GenerateResource.cache
+C:\Users\roman\Downloads\Methods (actions with fractions) (27.04.2022)\Methods (actions with fractions)\obj\Debug\Methods (actions with fractions).csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Methods (actions with fractions) (27.04.2022)\Methods (actions with fractions)\obj\Debug\Methods (actions with fractions).exe
+C:\Users\roman\Downloads\Methods (actions with fractions) (27.04.2022)\Methods (actions with fractions)\obj\Debug\Methods (actions with fractions).pdb

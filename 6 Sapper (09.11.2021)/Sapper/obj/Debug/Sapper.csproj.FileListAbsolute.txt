@@ -1,0 +1,51 @@
+C:\Users\Roman\Documents\MS VS\Sapper\Sapper\bin\Debug\Sapper.exe.config
+C:\Users\Roman\Documents\MS VS\Sapper\Sapper\bin\Debug\Sapper.exe
+C:\Users\Roman\Documents\MS VS\Sapper\Sapper\bin\Debug\Sapper.pdb
+C:\Users\Roman\Documents\MS VS\Sapper\Sapper\obj\Debug\Sapper.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\MS VS\Sapper\Sapper\obj\Debug\Sapper.Form1Minefield.resources
+C:\Users\Roman\Documents\MS VS\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+C:\Users\Roman\Documents\MS VS\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.cache
+C:\Users\Roman\Documents\MS VS\Sapper\Sapper\obj\Debug\Sapper.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\MS VS\Sapper\Sapper\obj\Debug\Sapper.exe
+C:\Users\Roman\Documents\MS VS\Sapper\Sapper\obj\Debug\Sapper.pdb
+C:\Users\Roman\Documents\MS VS\Sapper (09.11.2021)\Sapper\bin\Debug\Sapper.exe.config
+C:\Users\Roman\Documents\MS VS\Sapper (09.11.2021)\Sapper\bin\Debug\Sapper.exe
+C:\Users\Roman\Documents\MS VS\Sapper (09.11.2021)\Sapper\bin\Debug\Sapper.pdb
+C:\Users\Roman\Documents\MS VS\Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\MS VS\Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.Form1Minefield.resources
+C:\Users\Roman\Documents\MS VS\Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+C:\Users\Roman\Documents\MS VS\Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.csproj.GenerateResource.cache
+C:\Users\Roman\Documents\MS VS\Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\MS VS\Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.exe
+C:\Users\Roman\Documents\MS VS\Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.pdb
+C:\Users\roman\Documents\C#\Программирование\Sapper (09.11.2021)\Sapper\bin\Debug\Sapper.exe.config
+C:\Users\roman\Documents\C#\Программирование\Sapper (09.11.2021)\Sapper\bin\Debug\Sapper.exe
+C:\Users\roman\Documents\C#\Программирование\Sapper (09.11.2021)\Sapper\bin\Debug\Sapper.pdb
+C:\Users\roman\Documents\C#\Программирование\Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.csproj.AssemblyReference.cache
+C:\Users\roman\Documents\C#\Программирование\Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.csproj.SuggestedBindingRedirects.cache
+C:\Users\roman\Documents\C#\Программирование\Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.Form1Minefield.resources
+C:\Users\roman\Documents\C#\Программирование\Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+C:\Users\roman\Documents\C#\Программирование\Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.csproj.GenerateResource.cache
+C:\Users\roman\Documents\C#\Программирование\Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.csproj.CoreCompileInputs.cache
+C:\Users\roman\Documents\C#\Программирование\Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.exe
+C:\Users\roman\Documents\C#\Программирование\Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.pdb
+C:\Users\roman\OneDrive\Documents\c#\Основы алгоритмизации и программирования\6 Sapper (09.11.2021)\Sapper\bin\Debug\Sapper.exe.config
+C:\Users\roman\OneDrive\Documents\c#\Основы алгоритмизации и программирования\6 Sapper (09.11.2021)\Sapper\bin\Debug\Sapper.exe
+C:\Users\roman\OneDrive\Documents\c#\Основы алгоритмизации и программирования\6 Sapper (09.11.2021)\Sapper\bin\Debug\Sapper.pdb
+C:\Users\roman\OneDrive\Documents\c#\Основы алгоритмизации и программирования\6 Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.csproj.AssemblyReference.cache
+C:\Users\roman\OneDrive\Documents\c#\Основы алгоритмизации и программирования\6 Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.Form1Minefield.resources
+C:\Users\roman\OneDrive\Documents\c#\Основы алгоритмизации и программирования\6 Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+C:\Users\roman\OneDrive\Documents\c#\Основы алгоритмизации и программирования\6 Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.csproj.GenerateResource.cache
+C:\Users\roman\OneDrive\Documents\c#\Основы алгоритмизации и программирования\6 Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Documents\c#\Основы алгоритмизации и программирования\6 Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.exe
+C:\Users\roman\OneDrive\Documents\c#\Основы алгоритмизации и программирования\6 Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.pdb
+C:\Users\romankolin\OneDrive\Documents\C#\6 Sapper (09.11.2021)\Sapper\bin\Debug\Sapper.exe.config
+C:\Users\romankolin\OneDrive\Documents\C#\6 Sapper (09.11.2021)\Sapper\bin\Debug\Sapper.exe
+C:\Users\romankolin\OneDrive\Documents\C#\6 Sapper (09.11.2021)\Sapper\bin\Debug\Sapper.pdb
+C:\Users\romankolin\OneDrive\Documents\C#\6 Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.csproj.AssemblyReference.cache
+C:\Users\romankolin\OneDrive\Documents\C#\6 Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.Form1Minefield.resources
+C:\Users\romankolin\OneDrive\Documents\C#\6 Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+C:\Users\romankolin\OneDrive\Documents\C#\6 Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.csproj.GenerateResource.cache
+C:\Users\romankolin\OneDrive\Documents\C#\6 Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.csproj.CoreCompileInputs.cache
+C:\Users\romankolin\OneDrive\Documents\C#\6 Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.exe
+C:\Users\romankolin\OneDrive\Documents\C#\6 Sapper (09.11.2021)\Sapper\obj\Debug\Sapper.pdb

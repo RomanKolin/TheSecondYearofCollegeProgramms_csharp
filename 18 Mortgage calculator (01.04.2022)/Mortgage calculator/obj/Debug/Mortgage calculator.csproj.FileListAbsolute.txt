@@ -1,0 +1,30 @@
+C:\Users\roman\Downloads\Mortgage calculator\Mortgage calculator\bin\Debug\Mortgage calculator.exe.config
+C:\Users\roman\Downloads\Mortgage calculator\Mortgage calculator\bin\Debug\Mortgage calculator.exe
+C:\Users\roman\Downloads\Mortgage calculator\Mortgage calculator\bin\Debug\Mortgage calculator.pdb
+C:\Users\roman\Downloads\Mortgage calculator\Mortgage calculator\obj\Debug\Mortgage calculator.csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Mortgage calculator\Mortgage calculator\obj\Debug\Mortgage_calculator.Form1mortgagecalculator.resources
+C:\Users\roman\Downloads\Mortgage calculator\Mortgage calculator\obj\Debug\Mortgage_calculator.Properties.Resources.resources
+C:\Users\roman\Downloads\Mortgage calculator\Mortgage calculator\obj\Debug\Mortgage calculator.csproj.GenerateResource.cache
+C:\Users\roman\Downloads\Mortgage calculator\Mortgage calculator\obj\Debug\Mortgage calculator.csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Mortgage calculator\Mortgage calculator\obj\Debug\Mortgage calculator.exe
+C:\Users\roman\Downloads\Mortgage calculator\Mortgage calculator\obj\Debug\Mortgage calculator.pdb
+C:\Users\roman\Downloads\Mortgage calculator (01.04.2022)\Mortgage calculator\bin\Debug\Mortgage calculator.exe.config
+C:\Users\roman\Downloads\Mortgage calculator (01.04.2022)\Mortgage calculator\bin\Debug\Mortgage calculator.exe
+C:\Users\roman\Downloads\Mortgage calculator (01.04.2022)\Mortgage calculator\bin\Debug\Mortgage calculator.pdb
+C:\Users\roman\Downloads\Mortgage calculator (01.04.2022)\Mortgage calculator\obj\Debug\Mortgage calculator.csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Mortgage calculator (01.04.2022)\Mortgage calculator\obj\Debug\Mortgage_calculator.Form1mortgagecalculator.resources
+C:\Users\roman\Downloads\Mortgage calculator (01.04.2022)\Mortgage calculator\obj\Debug\Mortgage_calculator.Properties.Resources.resources
+C:\Users\roman\Downloads\Mortgage calculator (01.04.2022)\Mortgage calculator\obj\Debug\Mortgage calculator.csproj.GenerateResource.cache
+C:\Users\roman\Downloads\Mortgage calculator (01.04.2022)\Mortgage calculator\obj\Debug\Mortgage calculator.csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Mortgage calculator (01.04.2022)\Mortgage calculator\obj\Debug\Mortgage calculator.exe
+C:\Users\roman\Downloads\Mortgage calculator (01.04.2022)\Mortgage calculator\obj\Debug\Mortgage calculator.pdb
+C:\Users\romankolin\OneDrive\Documents\C#\18 Mortgage calculator (01.04.2022)\Mortgage calculator\bin\Debug\Mortgage calculator.exe.config
+C:\Users\romankolin\OneDrive\Documents\C#\18 Mortgage calculator (01.04.2022)\Mortgage calculator\bin\Debug\Mortgage calculator.exe
+C:\Users\romankolin\OneDrive\Documents\C#\18 Mortgage calculator (01.04.2022)\Mortgage calculator\bin\Debug\Mortgage calculator.pdb
+C:\Users\romankolin\OneDrive\Documents\C#\18 Mortgage calculator (01.04.2022)\Mortgage calculator\obj\Debug\Mortgage calculator.csproj.AssemblyReference.cache
+C:\Users\romankolin\OneDrive\Documents\C#\18 Mortgage calculator (01.04.2022)\Mortgage calculator\obj\Debug\Mortgage_calculator.Form1mortgagecalculator.resources
+C:\Users\romankolin\OneDrive\Documents\C#\18 Mortgage calculator (01.04.2022)\Mortgage calculator\obj\Debug\Mortgage_calculator.Properties.Resources.resources
+C:\Users\romankolin\OneDrive\Documents\C#\18 Mortgage calculator (01.04.2022)\Mortgage calculator\obj\Debug\Mortgage calculator.csproj.GenerateResource.cache
+C:\Users\romankolin\OneDrive\Documents\C#\18 Mortgage calculator (01.04.2022)\Mortgage calculator\obj\Debug\Mortgage calculator.csproj.CoreCompileInputs.cache
+C:\Users\romankolin\OneDrive\Documents\C#\18 Mortgage calculator (01.04.2022)\Mortgage calculator\obj\Debug\Mortgage calculator.exe
+C:\Users\romankolin\OneDrive\Documents\C#\18 Mortgage calculator (01.04.2022)\Mortgage calculator\obj\Debug\Mortgage calculator.pdb

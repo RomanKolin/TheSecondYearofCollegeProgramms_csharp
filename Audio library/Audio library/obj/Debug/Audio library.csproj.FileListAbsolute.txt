@@ -1,0 +1,108 @@
+C:\Users\roman\Downloads\Audio library\Audio library\bin\Debug\Audio library.mdb
+C:\Users\roman\Downloads\Audio library\Audio library\bin\Debug\Audio library.exe.config
+C:\Users\roman\Downloads\Audio library\Audio library\bin\Debug\Audio library.exe
+C:\Users\roman\Downloads\Audio library\Audio library\bin\Debug\Audio library.pdb
+C:\Users\roman\Downloads\Audio library\Audio library\obj\Debug\Audio library.csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Audio library\Audio library\obj\Debug\Audio_library.Form1audiolibrary.resources
+C:\Users\roman\Downloads\Audio library\Audio library\obj\Debug\Audio_library.Properties.Resources.resources
+C:\Users\roman\Downloads\Audio library\Audio library\obj\Debug\Audio library.csproj.GenerateResource.cache
+C:\Users\roman\Downloads\Audio library\Audio library\obj\Debug\Audio library.csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Audio library\Audio library\obj\Debug\Audio library.exe
+C:\Users\roman\Downloads\Audio library\Audio library\obj\Debug\Audio library.pdb
+C:\Users\stud\Downloads\Audio library\Audio library\Audio library\bin\Debug\Audio library.mdb
+C:\Users\stud\Downloads\Audio library\Audio library\Audio library\bin\Debug\Audio library.exe.config
+C:\Users\stud\Downloads\Audio library\Audio library\Audio library\bin\Debug\Audio library.exe
+C:\Users\stud\Downloads\Audio library\Audio library\Audio library\bin\Debug\Audio library.pdb
+C:\Users\stud\Downloads\Audio library\Audio library\Audio library\obj\Debug\Audio library.csproj.AssemblyReference.cache
+C:\Users\stud\Downloads\Audio library\Audio library\Audio library\obj\Debug\Audio_library.Form1audiolibrary.resources
+C:\Users\stud\Downloads\Audio library\Audio library\Audio library\obj\Debug\Audio_library.Properties.Resources.resources
+C:\Users\stud\Downloads\Audio library\Audio library\Audio library\obj\Debug\Audio library.csproj.GenerateResource.cache
+C:\Users\stud\Downloads\Audio library\Audio library\Audio library\obj\Debug\Audio library.csproj.CoreCompileInputs.cache
+C:\Users\stud\Downloads\Audio library\Audio library\Audio library\obj\Debug\Audio library.exe
+C:\Users\stud\Downloads\Audio library\Audio library\Audio library\obj\Debug\Audio library.pdb
+C:\Users\stud\Downloads\Audio library\Audio library\bin\Debug\Audio library.mdb
+C:\Users\stud\Downloads\Audio library\Audio library\bin\Debug\Audio library.exe.config
+C:\Users\stud\Downloads\Audio library\Audio library\bin\Debug\Audio library.exe
+C:\Users\stud\Downloads\Audio library\Audio library\bin\Debug\Audio library.pdb
+C:\Users\stud\Downloads\Audio library\Audio library\obj\Debug\Audio_library.Form1audiolibrary.resources
+C:\Users\stud\Downloads\Audio library\Audio library\obj\Debug\Audio_library.Properties.Resources.resources
+C:\Users\stud\Downloads\Audio library\Audio library\obj\Debug\Audio library.csproj.GenerateResource.cache
+C:\Users\stud\Downloads\Audio library\Audio library\obj\Debug\Audio library.exe
+C:\Users\stud\Downloads\Audio library\Audio library\obj\Debug\Audio library.pdb
+C:\Users\stud\Pictures\Audio library\Audio library\bin\Debug\Audio library.mdb
+C:\Users\stud\Pictures\Audio library\Audio library\bin\Debug\Audio library.exe.config
+C:\Users\stud\Pictures\Audio library\Audio library\bin\Debug\Audio library.exe
+C:\Users\stud\Pictures\Audio library\Audio library\bin\Debug\Audio library.pdb
+C:\Users\stud\Pictures\Audio library\Audio library\obj\Debug\Audio library.csprojAssemblyReference.cache
+C:\Users\stud\Pictures\Audio library\Audio library\obj\Debug\Audio_library.Form1audiolibrary.resources
+C:\Users\stud\Pictures\Audio library\Audio library\obj\Debug\Audio_library.Properties.Resources.resources
+C:\Users\stud\Pictures\Audio library\Audio library\obj\Debug\Audio library.csproj.GenerateResource.cache
+C:\Users\stud\Pictures\Audio library\Audio library\obj\Debug\Audio library.exe
+C:\Users\stud\Pictures\Audio library\Audio library\obj\Debug\Audio library.pdb
+C:\Users\roman\OneDrive\Documents\Audio library\Audio library\bin\Debug\Audio library.mdb
+C:\Users\roman\OneDrive\Documents\Audio library\Audio library\bin\Debug\Audio library.exe.config
+C:\Users\roman\OneDrive\Documents\Audio library\Audio library\bin\Debug\Audio library.exe
+C:\Users\roman\OneDrive\Documents\Audio library\Audio library\bin\Debug\Audio library.pdb
+C:\Users\roman\OneDrive\Documents\Audio library\Audio library\obj\Debug\Audio library.csproj.AssemblyReference.cache
+C:\Users\roman\OneDrive\Documents\Audio library\Audio library\obj\Debug\Audio_library.Form1audiolibrary.resources
+C:\Users\roman\OneDrive\Documents\Audio library\Audio library\obj\Debug\Audio_library.Properties.Resources.resources
+C:\Users\roman\OneDrive\Documents\Audio library\Audio library\obj\Debug\Audio library.csproj.GenerateResource.cache
+C:\Users\roman\OneDrive\Documents\Audio library\Audio library\obj\Debug\Audio library.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Documents\Audio library\Audio library\obj\Debug\Audio library.exe
+C:\Users\roman\OneDrive\Documents\Audio library\Audio library\obj\Debug\Audio library.pdb
+C:\Users\stud\Downloads\Audio library\Audio library\obj\Debug\Audio library.csprojAssemblyReference.cache
+C:\Users\roman\Downloads\МДК 01.01 Разработка программных модулей (Колинько)\Audio library\Audio library\bin\Debug\Audio library.mdb
+C:\Users\roman\Downloads\МДК 01.01 Разработка программных модулей (Колинько)\Audio library\Audio library\bin\Debug\Audio library.exe.config
+C:\Users\roman\Downloads\МДК 01.01 Разработка программных модулей (Колинько)\Audio library\Audio library\bin\Debug\Audio library.exe
+C:\Users\roman\Downloads\МДК 01.01 Разработка программных модулей (Колинько)\Audio library\Audio library\bin\Debug\Audio library.pdb
+C:\Users\roman\Downloads\МДК 01.01 Разработка программных модулей (Колинько)\Audio library\Audio library\obj\Debug\Audio library.csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\МДК 01.01 Разработка программных модулей (Колинько)\Audio library\Audio library\obj\Debug\Audio_library.Form1audiolibrary.resources
+C:\Users\roman\Downloads\МДК 01.01 Разработка программных модулей (Колинько)\Audio library\Audio library\obj\Debug\Audio_library.Properties.Resources.resources
+C:\Users\roman\Downloads\МДК 01.01 Разработка программных модулей (Колинько)\Audio library\Audio library\obj\Debug\Audio library.csproj.GenerateResource.cache
+C:\Users\roman\Downloads\МДК 01.01 Разработка программных модулей (Колинько)\Audio library\Audio library\obj\Debug\Audio library.csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\МДК 01.01 Разработка программных модулей (Колинько)\Audio library\Audio library\obj\Debug\Audio library.exe
+C:\Users\roman\Downloads\МДК 01.01 Разработка программных модулей (Колинько)\Audio library\Audio library\obj\Debug\Audio library.pdb
+C:\Users\romankolin\Downloads\Audio library\Audio library\bin\Debug\Audio library.mdb
+C:\Users\romankolin\Downloads\Audio library\Audio library\bin\Debug\Audio library.exe.config
+C:\Users\romankolin\Downloads\Audio library\Audio library\bin\Debug\Audio library.exe
+C:\Users\romankolin\Downloads\Audio library\Audio library\bin\Debug\Audio library.pdb
+C:\Users\romankolin\Downloads\Audio library\Audio library\obj\Debug\Audio library.csproj.AssemblyReference.cache
+C:\Users\romankolin\Downloads\Audio library\Audio library\obj\Debug\Audio_library.Form1audiolibrary.resources
+C:\Users\romankolin\Downloads\Audio library\Audio library\obj\Debug\Audio_library.Properties.Resources.resources
+C:\Users\romankolin\Downloads\Audio library\Audio library\obj\Debug\Audio library.csproj.GenerateResource.cache
+C:\Users\romankolin\Downloads\Audio library\Audio library\obj\Debug\Audio library.csproj.CoreCompileInputs.cache
+C:\Users\romankolin\Downloads\Audio library\Audio library\obj\Debug\Audio library.exe
+C:\Users\romankolin\Downloads\Audio library\Audio library\obj\Debug\Audio library.pdb
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\bin\Debug\Audio library.mdb
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\bin\Debug\Audio library.exe.config
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\bin\Debug\Audio library.exe
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\bin\Debug\Audio library.pdb
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\obj\Debug\Audio library.csproj.AssemblyReference.cache
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\obj\Debug\Audio_library.Form1audiolibrary.resources
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\obj\Debug\Audio_library.Properties.Resources.resources
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\obj\Debug\Audio library.csproj.GenerateResource.cache
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\obj\Debug\Audio library.csproj.CoreCompileInputs.cache
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\obj\Debug\Audio library.exe
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\obj\Debug\Audio library.pdb
+C:\Users\romankolin\Downloads\Audio library\Audio library\Audio library\bin\Debug\Audio library.mdb
+C:\Users\romankolin\Downloads\Audio library\Audio library\Audio library\bin\Debug\Audio library.exe.config
+C:\Users\romankolin\Downloads\Audio library\Audio library\Audio library\bin\Debug\Audio library.exe
+C:\Users\romankolin\Downloads\Audio library\Audio library\Audio library\bin\Debug\Audio library.pdb
+C:\Users\romankolin\Downloads\Audio library\Audio library\Audio library\obj\Debug\Audio library.csproj.AssemblyReference.cache
+C:\Users\romankolin\Downloads\Audio library\Audio library\Audio library\obj\Debug\Audio_library.Form1audiolibrary.resources
+C:\Users\romankolin\Downloads\Audio library\Audio library\Audio library\obj\Debug\Audio_library.Properties.Resources.resources
+C:\Users\romankolin\Downloads\Audio library\Audio library\Audio library\obj\Debug\Audio library.csproj.GenerateResource.cache
+C:\Users\romankolin\Downloads\Audio library\Audio library\Audio library\obj\Debug\Audio library.csproj.CoreCompileInputs.cache
+C:\Users\romankolin\Downloads\Audio library\Audio library\Audio library\obj\Debug\Audio library.exe
+C:\Users\romankolin\Downloads\Audio library\Audio library\Audio library\obj\Debug\Audio library.pdb
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\Audio library\bin\Debug\Audio library.mdb
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\Audio library\bin\Debug\Audio library.exe.config
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\Audio library\bin\Debug\Audio library.exe
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\Audio library\bin\Debug\Audio library.pdb
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\Audio library\obj\Debug\Audio library.csproj.AssemblyReference.cache
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\Audio library\obj\Debug\Audio_library.Form1audiolibrary.resources
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\Audio library\obj\Debug\Audio_library.Properties.Resources.resources
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\Audio library\obj\Debug\Audio library.csproj.GenerateResource.cache
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\Audio library\obj\Debug\Audio library.csproj.CoreCompileInputs.cache
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\Audio library\obj\Debug\Audio library.exe
+C:\Users\romankolin\OneDrive\Documents\Audio library\Audio library\Audio library\obj\Debug\Audio library.pdb

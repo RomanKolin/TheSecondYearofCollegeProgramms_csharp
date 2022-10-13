@@ -1,0 +1,10 @@
+C:\Users\roman\Downloads\Human biorhythm\Human biorhythm\bin\Debug\Human biorhythm.exe.config
+C:\Users\roman\Downloads\Human biorhythm\Human biorhythm\bin\Debug\Human biorhythm.exe
+C:\Users\roman\Downloads\Human biorhythm\Human biorhythm\bin\Debug\Human biorhythm.pdb
+C:\Users\roman\Downloads\Human biorhythm\Human biorhythm\obj\Debug\Human biorhythm.csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Human biorhythm\Human biorhythm\obj\Debug\Human_biorhythm.Form1humanbiorhythm.resources
+C:\Users\roman\Downloads\Human biorhythm\Human biorhythm\obj\Debug\Human_biorhythm.Properties.Resources.resources
+C:\Users\roman\Downloads\Human biorhythm\Human biorhythm\obj\Debug\Human biorhythm.csproj.GenerateResource.cache
+C:\Users\roman\Downloads\Human biorhythm\Human biorhythm\obj\Debug\Human biorhythm.csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Human biorhythm\Human biorhythm\obj\Debug\Human biorhythm.exe
+C:\Users\roman\Downloads\Human biorhythm\Human biorhythm\obj\Debug\Human biorhythm.pdb

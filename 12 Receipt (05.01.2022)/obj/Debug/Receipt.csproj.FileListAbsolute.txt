@@ -1,0 +1,29 @@
+C:\Users\stud\Downloads\Receipt\bin\Debug\Receipt.exe.config
+C:\Users\stud\Downloads\Receipt\bin\Debug\Receipt.exe
+C:\Users\stud\Downloads\Receipt\bin\Debug\Receipt.pdb
+C:\Users\stud\Downloads\Receipt\obj\Debug\Receipt.csprojAssemblyReference.cache
+C:\Users\stud\Downloads\Receipt\obj\Debug\Receipt.Form1Receipt.resources
+C:\Users\stud\Downloads\Receipt\obj\Debug\Receipt.Properties.Resources.resources
+C:\Users\stud\Downloads\Receipt\obj\Debug\Receipt.csproj.GenerateResource.cache
+C:\Users\stud\Downloads\Receipt\obj\Debug\Receipt.exe
+C:\Users\stud\Downloads\Receipt\obj\Debug\Receipt.pdb
+C:\Users\Roman\Downloads\Receipt\bin\Debug\Receipt.exe.config
+C:\Users\Roman\Downloads\Receipt\bin\Debug\Receipt.exe
+C:\Users\Roman\Downloads\Receipt\bin\Debug\Receipt.pdb
+C:\Users\Roman\Downloads\Receipt\obj\Debug\Receipt.csproj.AssemblyReference.cache
+C:\Users\Roman\Downloads\Receipt\obj\Debug\Receipt.Form1Receipt.resources
+C:\Users\Roman\Downloads\Receipt\obj\Debug\Receipt.Properties.Resources.resources
+C:\Users\Roman\Downloads\Receipt\obj\Debug\Receipt.csproj.GenerateResource.cache
+C:\Users\Roman\Downloads\Receipt\obj\Debug\Receipt.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Downloads\Receipt\obj\Debug\Receipt.exe
+C:\Users\Roman\Downloads\Receipt\obj\Debug\Receipt.pdb
+C:\Users\roman\Documents\C#\Программирование\Receipt (05.01.2022)\bin\Debug\Receipt.exe.config
+C:\Users\roman\Documents\C#\Программирование\Receipt (05.01.2022)\bin\Debug\Receipt.exe
+C:\Users\roman\Documents\C#\Программирование\Receipt (05.01.2022)\bin\Debug\Receipt.pdb
+C:\Users\roman\Documents\C#\Программирование\Receipt (05.01.2022)\obj\Debug\Receipt.csproj.AssemblyReference.cache
+C:\Users\roman\Documents\C#\Программирование\Receipt (05.01.2022)\obj\Debug\Receipt.Form1Receipt.resources
+C:\Users\roman\Documents\C#\Программирование\Receipt (05.01.2022)\obj\Debug\Receipt.Properties.Resources.resources
+C:\Users\roman\Documents\C#\Программирование\Receipt (05.01.2022)\obj\Debug\Receipt.csproj.GenerateResource.cache
+C:\Users\roman\Documents\C#\Программирование\Receipt (05.01.2022)\obj\Debug\Receipt.csproj.CoreCompileInputs.cache
+C:\Users\roman\Documents\C#\Программирование\Receipt (05.01.2022)\obj\Debug\Receipt.exe
+C:\Users\roman\Documents\C#\Программирование\Receipt (05.01.2022)\obj\Debug\Receipt.pdb

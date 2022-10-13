@@ -1,0 +1,20 @@
+C:\Users\roman\Downloads\Graph of trigonometric functions\Graph of trigonometric functions\bin\Debug\Graph of trigonometric functions.exe.config
+C:\Users\roman\Downloads\Graph of trigonometric functions\Graph of trigonometric functions\bin\Debug\Graph of trigonometric functions.exe
+C:\Users\roman\Downloads\Graph of trigonometric functions\Graph of trigonometric functions\bin\Debug\Graph of trigonometric functions.pdb
+C:\Users\roman\Downloads\Graph of trigonometric functions\Graph of trigonometric functions\obj\Debug\Graph of trigonometric functions.csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Graph of trigonometric functions\Graph of trigonometric functions\obj\Debug\Graph_of_trigonometric_functions.Properties.Resources.resources
+C:\Users\roman\Downloads\Graph of trigonometric functions\Graph of trigonometric functions\obj\Debug\Graph of trigonometric functions.csproj.GenerateResource.cache
+C:\Users\roman\Downloads\Graph of trigonometric functions\Graph of trigonometric functions\obj\Debug\Graph of trigonometric functions.csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Graph of trigonometric functions\Graph of trigonometric functions\obj\Debug\Graph of trigonometric functions.exe
+C:\Users\roman\Downloads\Graph of trigonometric functions\Graph of trigonometric functions\obj\Debug\Graph of trigonometric functions.pdb
+C:\Users\roman\Downloads\Graph of trigonometric functions\Graph of trigonometric functions\obj\Debug\Graph_of_trigonometric_functions.Form1graphoftrigonometricfunctions.resources
+C:\Users\roman\Downloads\Graph of trigonometric functions (22.03.22)\Graph of trigonometric functions\bin\Debug\Graph of trigonometric functions.exe.config
+C:\Users\roman\Downloads\Graph of trigonometric functions (22.03.22)\Graph of trigonometric functions\bin\Debug\Graph of trigonometric functions.exe
+C:\Users\roman\Downloads\Graph of trigonometric functions (22.03.22)\Graph of trigonometric functions\bin\Debug\Graph of trigonometric functions.pdb
+C:\Users\roman\Downloads\Graph of trigonometric functions (22.03.22)\Graph of trigonometric functions\obj\Debug\Graph of trigonometric functions.csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Graph of trigonometric functions (22.03.22)\Graph of trigonometric functions\obj\Debug\Graph_of_trigonometric_functions.Form1graphoftrigonometricfunctions.resources
+C:\Users\roman\Downloads\Graph of trigonometric functions (22.03.22)\Graph of trigonometric functions\obj\Debug\Graph_of_trigonometric_functions.Properties.Resources.resources
+C:\Users\roman\Downloads\Graph of trigonometric functions (22.03.22)\Graph of trigonometric functions\obj\Debug\Graph of trigonometric functions.csproj.GenerateResource.cache
+C:\Users\roman\Downloads\Graph of trigonometric functions (22.03.22)\Graph of trigonometric functions\obj\Debug\Graph of trigonometric functions.csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Graph of trigonometric functions (22.03.22)\Graph of trigonometric functions\obj\Debug\Graph of trigonometric functions.exe
+C:\Users\roman\Downloads\Graph of trigonometric functions (22.03.22)\Graph of trigonometric functions\obj\Debug\Graph of trigonometric functions.pdb

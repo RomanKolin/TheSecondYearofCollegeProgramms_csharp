@@ -1,0 +1,60 @@
+C:\Users\Roman\Documents\MS VS\Body Calculator\Body Calculator\bin\Debug\Body Calculator.exe.config
+C:\Users\Roman\Documents\MS VS\Body Calculator\Body Calculator\bin\Debug\Body Calculator.exe
+C:\Users\Roman\Documents\MS VS\Body Calculator\Body Calculator\bin\Debug\Body Calculator.pdb
+C:\Users\Roman\Documents\MS VS\Body Calculator\Body Calculator\obj\Debug\Body Calculator.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\MS VS\Body Calculator\Body Calculator\obj\Debug\Body_Calculator.Form1BodyCalculator.resources
+C:\Users\Roman\Documents\MS VS\Body Calculator\Body Calculator\obj\Debug\Body_Calculator.Properties.Resources.resources
+C:\Users\Roman\Documents\MS VS\Body Calculator\Body Calculator\obj\Debug\Body Calculator.csproj.GenerateResource.cache
+C:\Users\Roman\Documents\MS VS\Body Calculator\Body Calculator\obj\Debug\Body Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\MS VS\Body Calculator\Body Calculator\obj\Debug\Body Calculator.exe
+C:\Users\Roman\Documents\MS VS\Body Calculator\Body Calculator\obj\Debug\Body Calculator.pdb
+C:\Users\Roman\Downloads\Body Calculator (18.11.2021)\Body Calculator\bin\Debug\Body Calculator.exe.config
+C:\Users\Roman\Downloads\Body Calculator (18.11.2021)\Body Calculator\bin\Debug\Body Calculator.exe
+C:\Users\Roman\Downloads\Body Calculator (18.11.2021)\Body Calculator\bin\Debug\Body Calculator.pdb
+C:\Users\Roman\Downloads\Body Calculator (18.11.2021)\Body Calculator\obj\Debug\Body Calculator.csproj.AssemblyReference.cache
+C:\Users\Roman\Downloads\Body Calculator (18.11.2021)\Body Calculator\obj\Debug\Body_Calculator.Form1BodyCalculator.resources
+C:\Users\Roman\Downloads\Body Calculator (18.11.2021)\Body Calculator\obj\Debug\Body_Calculator.Properties.Resources.resources
+C:\Users\Roman\Downloads\Body Calculator (18.11.2021)\Body Calculator\obj\Debug\Body Calculator.csproj.GenerateResource.cache
+C:\Users\Roman\Downloads\Body Calculator (18.11.2021)\Body Calculator\obj\Debug\Body Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Downloads\Body Calculator (18.11.2021)\Body Calculator\obj\Debug\Body Calculator.exe
+C:\Users\Roman\Downloads\Body Calculator (18.11.2021)\Body Calculator\obj\Debug\Body Calculator.pdb
+C:\Users\Roman\Downloads\Body Calculator (19.11.2021)\Body Calculator\bin\Debug\Body Calculator.exe.config
+C:\Users\Roman\Downloads\Body Calculator (19.11.2021)\Body Calculator\bin\Debug\Body Calculator.exe
+C:\Users\Roman\Downloads\Body Calculator (19.11.2021)\Body Calculator\bin\Debug\Body Calculator.pdb
+C:\Users\Roman\Downloads\Body Calculator (19.11.2021)\Body Calculator\obj\Debug\Body Calculator.csproj.AssemblyReference.cache
+C:\Users\Roman\Downloads\Body Calculator (19.11.2021)\Body Calculator\obj\Debug\Body_Calculator.Form1BodyCalculator.resources
+C:\Users\Roman\Downloads\Body Calculator (19.11.2021)\Body Calculator\obj\Debug\Body_Calculator.Properties.Resources.resources
+C:\Users\Roman\Downloads\Body Calculator (19.11.2021)\Body Calculator\obj\Debug\Body Calculator.csproj.GenerateResource.cache
+C:\Users\Roman\Downloads\Body Calculator (19.11.2021)\Body Calculator\obj\Debug\Body Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Downloads\Body Calculator (19.11.2021)\Body Calculator\obj\Debug\Body Calculator.exe
+C:\Users\Roman\Downloads\Body Calculator (19.11.2021)\Body Calculator\obj\Debug\Body Calculator.pdb
+C:\Users\Roman\Documents\MS VS\Body Calculator (20.11.2021)\Body Calculator\bin\Debug\Body Calculator.exe.config
+C:\Users\Roman\Documents\MS VS\Body Calculator (20.11.2021)\Body Calculator\bin\Debug\Body Calculator.exe
+C:\Users\Roman\Documents\MS VS\Body Calculator (20.11.2021)\Body Calculator\bin\Debug\Body Calculator.pdb
+C:\Users\Roman\Documents\MS VS\Body Calculator (20.11.2021)\Body Calculator\obj\Debug\Body Calculator.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\MS VS\Body Calculator (20.11.2021)\Body Calculator\obj\Debug\Body_Calculator.Form1BodyCalculator.resources
+C:\Users\Roman\Documents\MS VS\Body Calculator (20.11.2021)\Body Calculator\obj\Debug\Body_Calculator.Properties.Resources.resources
+C:\Users\Roman\Documents\MS VS\Body Calculator (20.11.2021)\Body Calculator\obj\Debug\Body Calculator.csproj.GenerateResource.cache
+C:\Users\Roman\Documents\MS VS\Body Calculator (20.11.2021)\Body Calculator\obj\Debug\Body Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\MS VS\Body Calculator (20.11.2021)\Body Calculator\obj\Debug\Body Calculator.exe
+C:\Users\Roman\Documents\MS VS\Body Calculator (20.11.2021)\Body Calculator\obj\Debug\Body Calculator.pdb
+C:\Users\Roman\Documents\MS VS\Body Calculator (21.11.2021)\Body Calculator\bin\Debug\Body Calculator.exe.config
+C:\Users\Roman\Documents\MS VS\Body Calculator (21.11.2021)\Body Calculator\bin\Debug\Body Calculator.exe
+C:\Users\Roman\Documents\MS VS\Body Calculator (21.11.2021)\Body Calculator\bin\Debug\Body Calculator.pdb
+C:\Users\Roman\Documents\MS VS\Body Calculator (21.11.2021)\Body Calculator\obj\Debug\Body Calculator.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\MS VS\Body Calculator (21.11.2021)\Body Calculator\obj\Debug\Body_Calculator.Form1BodyCalculator.resources
+C:\Users\Roman\Documents\MS VS\Body Calculator (21.11.2021)\Body Calculator\obj\Debug\Body_Calculator.Properties.Resources.resources
+C:\Users\Roman\Documents\MS VS\Body Calculator (21.11.2021)\Body Calculator\obj\Debug\Body Calculator.csproj.GenerateResource.cache
+C:\Users\Roman\Documents\MS VS\Body Calculator (21.11.2021)\Body Calculator\obj\Debug\Body Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\MS VS\Body Calculator (21.11.2021)\Body Calculator\obj\Debug\Body Calculator.exe
+C:\Users\Roman\Documents\MS VS\Body Calculator (21.11.2021)\Body Calculator\obj\Debug\Body Calculator.pdb
+C:\Users\roman\Documents\C#\Программирование\Body Calculator (21.11.2021)\Body Calculator\bin\Debug\Body Calculator.exe.config
+C:\Users\roman\Documents\C#\Программирование\Body Calculator (21.11.2021)\Body Calculator\bin\Debug\Body Calculator.exe
+C:\Users\roman\Documents\C#\Программирование\Body Calculator (21.11.2021)\Body Calculator\bin\Debug\Body Calculator.pdb
+C:\Users\roman\Documents\C#\Программирование\Body Calculator (21.11.2021)\Body Calculator\obj\Debug\Body Calculator.csproj.AssemblyReference.cache
+C:\Users\roman\Documents\C#\Программирование\Body Calculator (21.11.2021)\Body Calculator\obj\Debug\Body_Calculator.Form1BodyCalculator.resources
+C:\Users\roman\Documents\C#\Программирование\Body Calculator (21.11.2021)\Body Calculator\obj\Debug\Body_Calculator.Properties.Resources.resources
+C:\Users\roman\Documents\C#\Программирование\Body Calculator (21.11.2021)\Body Calculator\obj\Debug\Body Calculator.csproj.GenerateResource.cache
+C:\Users\roman\Documents\C#\Программирование\Body Calculator (21.11.2021)\Body Calculator\obj\Debug\Body Calculator.csproj.CoreCompileInputs.cache
+C:\Users\roman\Documents\C#\Программирование\Body Calculator (21.11.2021)\Body Calculator\obj\Debug\Body Calculator.exe
+C:\Users\roman\Documents\C#\Программирование\Body Calculator (21.11.2021)\Body Calculator\obj\Debug\Body Calculator.pdb

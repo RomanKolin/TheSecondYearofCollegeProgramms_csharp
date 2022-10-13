@@ -1,0 +1,10 @@
+C:\Users\Roman\Documents\MS VS\Graphic Calculate (28.09.2021)\Graphic Calculate\bin\Debug\Graphic Calculate.exe.config
+C:\Users\Roman\Documents\MS VS\Graphic Calculate (28.09.2021)\Graphic Calculate\bin\Debug\Graphic Calculate.exe
+C:\Users\Roman\Documents\MS VS\Graphic Calculate (28.09.2021)\Graphic Calculate\bin\Debug\Graphic Calculate.pdb
+C:\Users\Roman\Documents\MS VS\Graphic Calculate (28.09.2021)\Graphic Calculate\obj\Debug\Graphic Calculate.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\MS VS\Graphic Calculate (28.09.2021)\Graphic Calculate\obj\Debug\Graphic_Calculate.Form1.resources
+C:\Users\Roman\Documents\MS VS\Graphic Calculate (28.09.2021)\Graphic Calculate\obj\Debug\Graphic_Calculate.Properties.Resources.resources
+C:\Users\Roman\Documents\MS VS\Graphic Calculate (28.09.2021)\Graphic Calculate\obj\Debug\Graphic Calculate.csproj.GenerateResource.cache
+C:\Users\Roman\Documents\MS VS\Graphic Calculate (28.09.2021)\Graphic Calculate\obj\Debug\Graphic Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\MS VS\Graphic Calculate (28.09.2021)\Graphic Calculate\obj\Debug\Graphic Calculate.exe
+C:\Users\Roman\Documents\MS VS\Graphic Calculate (28.09.2021)\Graphic Calculate\obj\Debug\Graphic Calculate.pdb

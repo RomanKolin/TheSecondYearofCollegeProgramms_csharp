@@ -1,0 +1,27 @@
+C:\Users\roman\Downloads\Array (basic operations)\Array (basic operations)\bin\Debug\Array (basic operations).exe.config
+C:\Users\roman\Downloads\Array (basic operations)\Array (basic operations)\bin\Debug\Array (basic operations).exe
+C:\Users\roman\Downloads\Array (basic operations)\Array (basic operations)\bin\Debug\Array (basic operations).pdb
+C:\Users\roman\Downloads\Array (basic operations)\Array (basic operations)\obj\Debug\Array (basic operations).csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Array (basic operations)\Array (basic operations)\obj\Debug\Array (basic operations).csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Array (basic operations)\Array (basic operations)\obj\Debug\Array (basic operations).exe
+C:\Users\roman\Downloads\Array (basic operations)\Array (basic operations)\obj\Debug\Array (basic operations).pdb
+C:\Users\stud\Downloads\Array (basic operations)\Array (basic operations)\Array (basic operations)\bin\Debug\Array (basic operations).exe.config
+C:\Users\stud\Downloads\Array (basic operations)\Array (basic operations)\Array (basic operations)\bin\Debug\Array (basic operations).exe
+C:\Users\stud\Downloads\Array (basic operations)\Array (basic operations)\Array (basic operations)\bin\Debug\Array (basic operations).pdb
+C:\Users\stud\Downloads\Array (basic operations)\Array (basic operations)\Array (basic operations)\obj\Debug\Array (basic operations).csprojAssemblyReference.cache
+C:\Users\stud\Downloads\Array (basic operations)\Array (basic operations)\Array (basic operations)\obj\Debug\Array (basic operations).exe
+C:\Users\stud\Downloads\Array (basic operations)\Array (basic operations)\Array (basic operations)\obj\Debug\Array (basic operations).pdb
+C:\Users\roman\Downloads\Array (basic operations) (21.05.2022)\Array (basic operations)\bin\Debug\Array (basic operations).exe.config
+C:\Users\roman\Downloads\Array (basic operations) (21.05.2022)\Array (basic operations)\bin\Debug\Array (basic operations).exe
+C:\Users\roman\Downloads\Array (basic operations) (21.05.2022)\Array (basic operations)\bin\Debug\Array (basic operations).pdb
+C:\Users\roman\Downloads\Array (basic operations) (21.05.2022)\Array (basic operations)\obj\Debug\Array (basic operations).csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Array (basic operations) (21.05.2022)\Array (basic operations)\obj\Debug\Array (basic operations).csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Array (basic operations) (21.05.2022)\Array (basic operations)\obj\Debug\Array (basic operations).exe
+C:\Users\roman\Downloads\Array (basic operations) (21.05.2022)\Array (basic operations)\obj\Debug\Array (basic operations).pdb
+C:\Users\roman\Downloads\Array (basic operations) (25.05.2022)\Array (basic operations)\bin\Debug\Array (basic operations).exe.config
+C:\Users\roman\Downloads\Array (basic operations) (25.05.2022)\Array (basic operations)\bin\Debug\Array (basic operations).exe
+C:\Users\roman\Downloads\Array (basic operations) (25.05.2022)\Array (basic operations)\bin\Debug\Array (basic operations).pdb
+C:\Users\roman\Downloads\Array (basic operations) (25.05.2022)\Array (basic operations)\obj\Debug\Array (basic operations).csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Array (basic operations) (25.05.2022)\Array (basic operations)\obj\Debug\Array (basic operations).csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Array (basic operations) (25.05.2022)\Array (basic operations)\obj\Debug\Array (basic operations).exe
+C:\Users\roman\Downloads\Array (basic operations) (25.05.2022)\Array (basic operations)\obj\Debug\Array (basic operations).pdb

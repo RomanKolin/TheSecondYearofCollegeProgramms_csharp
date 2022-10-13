@@ -1,0 +1,39 @@
+C:\Users\Roman\Documents\MS VS\Context Menu\Context Menu\bin\Debug\Context Menu.exe.config
+C:\Users\Roman\Documents\MS VS\Context Menu\Context Menu\bin\Debug\Context Menu.exe
+C:\Users\Roman\Documents\MS VS\Context Menu\Context Menu\bin\Debug\Context Menu.pdb
+C:\Users\Roman\Documents\MS VS\Context Menu\Context Menu\obj\Debug\Context Menu.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\MS VS\Context Menu\Context Menu\obj\Debug\Context_Menu.Form1.resources
+C:\Users\Roman\Documents\MS VS\Context Menu\Context Menu\obj\Debug\Context_Menu.Properties.Resources.resources
+C:\Users\Roman\Documents\MS VS\Context Menu\Context Menu\obj\Debug\Context Menu.csproj.GenerateResource.cache
+C:\Users\Roman\Documents\MS VS\Context Menu\Context Menu\obj\Debug\Context Menu.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\MS VS\Context Menu\Context Menu\obj\Debug\Context Menu.exe
+C:\Users\Roman\Documents\MS VS\Context Menu\Context Menu\obj\Debug\Context Menu.pdb
+C:\Users\stud\204\Context Menu\Context Menu\Context Menu\bin\Debug\Context Menu.exe.config
+C:\Users\stud\204\Context Menu\Context Menu\Context Menu\bin\Debug\Context Menu.exe
+C:\Users\stud\204\Context Menu\Context Menu\Context Menu\bin\Debug\Context Menu.pdb
+C:\Users\stud\204\Context Menu\Context Menu\Context Menu\obj\Debug\Context Menu.csprojAssemblyReference.cache
+C:\Users\stud\204\Context Menu\Context Menu\Context Menu\obj\Debug\Context_Menu.Form1.resources
+C:\Users\stud\204\Context Menu\Context Menu\Context Menu\obj\Debug\Context_Menu.Properties.Resources.resources
+C:\Users\stud\204\Context Menu\Context Menu\Context Menu\obj\Debug\Context Menu.csproj.GenerateResource.cache
+C:\Users\stud\204\Context Menu\Context Menu\Context Menu\obj\Debug\Context Menu.exe
+C:\Users\stud\204\Context Menu\Context Menu\Context Menu\obj\Debug\Context Menu.pdb
+C:\Users\Roman\Documents\MS VS\Context Menu (28.10.2021)\Context Menu\bin\Debug\Context Menu.exe.config
+C:\Users\Roman\Documents\MS VS\Context Menu (28.10.2021)\Context Menu\bin\Debug\Context Menu.exe
+C:\Users\Roman\Documents\MS VS\Context Menu (28.10.2021)\Context Menu\bin\Debug\Context Menu.pdb
+C:\Users\Roman\Documents\MS VS\Context Menu (28.10.2021)\Context Menu\obj\Debug\Context Menu.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\MS VS\Context Menu (28.10.2021)\Context Menu\obj\Debug\Context_Menu.Form1.resources
+C:\Users\Roman\Documents\MS VS\Context Menu (28.10.2021)\Context Menu\obj\Debug\Context_Menu.Properties.Resources.resources
+C:\Users\Roman\Documents\MS VS\Context Menu (28.10.2021)\Context Menu\obj\Debug\Context Menu.csproj.GenerateResource.cache
+C:\Users\Roman\Documents\MS VS\Context Menu (28.10.2021)\Context Menu\obj\Debug\Context Menu.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\MS VS\Context Menu (28.10.2021)\Context Menu\obj\Debug\Context Menu.exe
+C:\Users\Roman\Documents\MS VS\Context Menu (28.10.2021)\Context Menu\obj\Debug\Context Menu.pdb
+C:\Users\Roman\Documents\MS VS\Context Menu (31.10.2021)\Context Menu\bin\Debug\Context Menu.exe.config
+C:\Users\Roman\Documents\MS VS\Context Menu (31.10.2021)\Context Menu\bin\Debug\Context Menu.exe
+C:\Users\Roman\Documents\MS VS\Context Menu (31.10.2021)\Context Menu\bin\Debug\Context Menu.pdb
+C:\Users\Roman\Documents\MS VS\Context Menu (31.10.2021)\Context Menu\obj\Debug\Context Menu.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\MS VS\Context Menu (31.10.2021)\Context Menu\obj\Debug\Context_Menu.Form1.resources
+C:\Users\Roman\Documents\MS VS\Context Menu (31.10.2021)\Context Menu\obj\Debug\Context_Menu.Properties.Resources.resources
+C:\Users\Roman\Documents\MS VS\Context Menu (31.10.2021)\Context Menu\obj\Debug\Context Menu.csproj.GenerateResource.cache
+C:\Users\Roman\Documents\MS VS\Context Menu (31.10.2021)\Context Menu\obj\Debug\Context Menu.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\MS VS\Context Menu (31.10.2021)\Context Menu\obj\Debug\Context Menu.exe
+C:\Users\Roman\Documents\MS VS\Context Menu (31.10.2021)\Context Menu\obj\Debug\Context Menu.pdb

@@ -1,0 +1,28 @@
+C:\Users\roman\Downloads\Cycle for (pictures)\Cycle for (pictures)\bin\Debug\Cycle for (pictures).exe.config
+C:\Users\roman\Downloads\Cycle for (pictures)\Cycle for (pictures)\bin\Debug\Cycle for (pictures).exe
+C:\Users\roman\Downloads\Cycle for (pictures)\Cycle for (pictures)\bin\Debug\Cycle for (pictures).pdb
+C:\Users\roman\Downloads\Cycle for (pictures)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Cycle for (pictures)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Cycle for (pictures)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).exe
+C:\Users\roman\Downloads\Cycle for (pictures)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).pdb
+C:\Users\roman\Downloads\Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\bin\Debug\Cycle for (pictures).exe.config
+C:\Users\roman\Downloads\Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\bin\Debug\Cycle for (pictures).exe
+C:\Users\roman\Downloads\Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\bin\Debug\Cycle for (pictures).pdb
+C:\Users\roman\Downloads\Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).exe
+C:\Users\roman\Downloads\Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).pdb
+C:\Users\roman\Documents\C#\Программирование\14 Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\bin\Debug\Cycle for (pictures).exe.config
+C:\Users\roman\Documents\C#\Программирование\14 Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\bin\Debug\Cycle for (pictures).exe
+C:\Users\roman\Documents\C#\Программирование\14 Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\bin\Debug\Cycle for (pictures).pdb
+C:\Users\roman\Documents\C#\Программирование\14 Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).csproj.AssemblyReference.cache
+C:\Users\roman\Documents\C#\Программирование\14 Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).csproj.CoreCompileInputs.cache
+C:\Users\roman\Documents\C#\Программирование\14 Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).exe
+C:\Users\roman\Documents\C#\Программирование\14 Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).pdb
+C:\Users\romankolin\OneDrive\Documents\C#\14 Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\bin\Debug\Cycle for (pictures).exe.config
+C:\Users\romankolin\OneDrive\Documents\C#\14 Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\bin\Debug\Cycle for (pictures).exe
+C:\Users\romankolin\OneDrive\Documents\C#\14 Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\bin\Debug\Cycle for (pictures).pdb
+C:\Users\romankolin\OneDrive\Documents\C#\14 Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).csproj.AssemblyReference.cache
+C:\Users\romankolin\OneDrive\Documents\C#\14 Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).csproj.CoreCompileInputs.cache
+C:\Users\romankolin\OneDrive\Documents\C#\14 Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).exe
+C:\Users\romankolin\OneDrive\Documents\C#\14 Cycle for (pictures) (02.03.2022)\Cycle for (pictures)\obj\Debug\Cycle for (pictures).pdb

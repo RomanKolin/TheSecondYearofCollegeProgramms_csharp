@@ -1,0 +1,59 @@
+C:\Users\Roman\Documents\MS VS\Taxi Robocop\Taxi Robocop\bin\Debug\Taxi Robocop.exe.config
+C:\Users\Roman\Documents\MS VS\Taxi Robocop\Taxi Robocop\bin\Debug\Taxi Robocop.exe
+C:\Users\Roman\Documents\MS VS\Taxi Robocop\Taxi Robocop\bin\Debug\Taxi Robocop.pdb
+C:\Users\Roman\Documents\MS VS\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\MS VS\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi_Robocop.Form1.resources
+C:\Users\Roman\Documents\MS VS\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi_Robocop.Properties.Resources.resources
+C:\Users\Roman\Documents\MS VS\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.GenerateResource.cache
+C:\Users\Roman\Documents\MS VS\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\MS VS\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.exe
+C:\Users\Roman\Documents\MS VS\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.pdb
+C:\Users\stud\204\Taxi Robocop\Taxi Robocop\bin\Debug\Taxi Robocop.exe.config
+C:\Users\stud\204\Taxi Robocop\Taxi Robocop\bin\Debug\Taxi Robocop.exe
+C:\Users\stud\204\Taxi Robocop\Taxi Robocop\bin\Debug\Taxi Robocop.pdb
+C:\Users\stud\204\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.csprojAssemblyReference.cache
+C:\Users\stud\204\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi_Robocop.Form1.resources
+C:\Users\stud\204\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi_Robocop.Properties.Resources.resources
+C:\Users\stud\204\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.GenerateResource.cache
+C:\Users\stud\204\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.exe
+C:\Users\stud\204\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.pdb
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\Taxi Robocop\bin\Debug\Taxi Robocop.exe.config
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\Taxi Robocop\bin\Debug\Taxi Robocop.exe
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\Taxi Robocop\bin\Debug\Taxi Robocop.pdb
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.AssemblyReference.cache
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi_Robocop.Form1.resources
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi_Robocop.Properties.Resources.resources
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.GenerateResource.cache
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.exe
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.pdb
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\bin\Debug\Taxi Robocop.exe.config
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\bin\Debug\Taxi Robocop.exe
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\bin\Debug\Taxi Robocop.pdb
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.AssemblyReference.cache
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi_Robocop.Form1.resources
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi_Robocop.Properties.Resources.resources
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.GenerateResource.cache
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.exe
+C:\Users\Roman\Downloads\Taxi Robocop\Taxi Robocop\obj\Debug\Taxi Robocop.pdb
+C:\Users\Roman\Documents\MS VS\Taxi Robocop (22.10.2021)\Taxi Robocop\bin\Debug\Taxi Robocop.exe.config
+C:\Users\Roman\Documents\MS VS\Taxi Robocop (22.10.2021)\Taxi Robocop\bin\Debug\Taxi Robocop.exe
+C:\Users\Roman\Documents\MS VS\Taxi Robocop (22.10.2021)\Taxi Robocop\bin\Debug\Taxi Robocop.pdb
+C:\Users\Roman\Documents\MS VS\Taxi Robocop (22.10.2021)\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\MS VS\Taxi Robocop (22.10.2021)\Taxi Robocop\obj\Debug\Taxi_Robocop.Form1.resources
+C:\Users\Roman\Documents\MS VS\Taxi Robocop (22.10.2021)\Taxi Robocop\obj\Debug\Taxi_Robocop.Properties.Resources.resources
+C:\Users\Roman\Documents\MS VS\Taxi Robocop (22.10.2021)\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.GenerateResource.cache
+C:\Users\Roman\Documents\MS VS\Taxi Robocop (22.10.2021)\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\MS VS\Taxi Robocop (22.10.2021)\Taxi Robocop\obj\Debug\Taxi Robocop.exe
+C:\Users\Roman\Documents\MS VS\Taxi Robocop (22.10.2021)\Taxi Robocop\obj\Debug\Taxi Robocop.pdb
+C:\Users\romankolin\OneDrive\Documents\C#\4 Taxi Robocop (22.10.2021)\Taxi Robocop\bin\Debug\Taxi Robocop.exe.config
+C:\Users\romankolin\OneDrive\Documents\C#\4 Taxi Robocop (22.10.2021)\Taxi Robocop\bin\Debug\Taxi Robocop.exe
+C:\Users\romankolin\OneDrive\Documents\C#\4 Taxi Robocop (22.10.2021)\Taxi Robocop\bin\Debug\Taxi Robocop.pdb
+C:\Users\romankolin\OneDrive\Documents\C#\4 Taxi Robocop (22.10.2021)\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.AssemblyReference.cache
+C:\Users\romankolin\OneDrive\Documents\C#\4 Taxi Robocop (22.10.2021)\Taxi Robocop\obj\Debug\Taxi_Robocop.Form1.resources
+C:\Users\romankolin\OneDrive\Documents\C#\4 Taxi Robocop (22.10.2021)\Taxi Robocop\obj\Debug\Taxi_Robocop.Properties.Resources.resources
+C:\Users\romankolin\OneDrive\Documents\C#\4 Taxi Robocop (22.10.2021)\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.GenerateResource.cache
+C:\Users\romankolin\OneDrive\Documents\C#\4 Taxi Robocop (22.10.2021)\Taxi Robocop\obj\Debug\Taxi Robocop.csproj.CoreCompileInputs.cache
+C:\Users\romankolin\OneDrive\Documents\C#\4 Taxi Robocop (22.10.2021)\Taxi Robocop\obj\Debug\Taxi Robocop.exe
+C:\Users\romankolin\OneDrive\Documents\C#\4 Taxi Robocop (22.10.2021)\Taxi Robocop\obj\Debug\Taxi Robocop.pdb

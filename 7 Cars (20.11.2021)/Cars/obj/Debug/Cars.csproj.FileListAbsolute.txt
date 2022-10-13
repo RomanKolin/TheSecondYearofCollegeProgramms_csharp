@@ -1,0 +1,48 @@
+C:\Users\Roman\Documents\MS VS\Cars\Cars\bin\Debug\Cars.exe.config
+C:\Users\Roman\Documents\MS VS\Cars\Cars\bin\Debug\Cars.exe
+C:\Users\Roman\Documents\MS VS\Cars\Cars\bin\Debug\Cars.pdb
+C:\Users\Roman\Documents\MS VS\Cars\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\MS VS\Cars\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\MS VS\Cars\Cars\obj\Debug\Cars.exe
+C:\Users\Roman\Documents\MS VS\Cars\Cars\obj\Debug\Cars.pdb
+C:\Users\stud\204\Cars\Cars\bin\Debug\Cars.exe.config
+C:\Users\stud\204\Cars\Cars\bin\Debug\Cars.exe
+C:\Users\stud\204\Cars\Cars\bin\Debug\Cars.pdb
+C:\Users\stud\204\Cars\Cars\obj\Debug\Cars.csprojAssemblyReference.cache
+C:\Users\stud\204\Cars\Cars\obj\Debug\Cars.exe
+C:\Users\stud\204\Cars\Cars\obj\Debug\Cars.pdb
+C:\Users\Roman\Downloads\Cars\Cars\bin\Debug\Cars.exe.config
+C:\Users\Roman\Downloads\Cars\Cars\bin\Debug\Cars.exe
+C:\Users\Roman\Downloads\Cars\Cars\bin\Debug\Cars.pdb
+C:\Users\Roman\Downloads\Cars\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+C:\Users\Roman\Downloads\Cars\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Downloads\Cars\Cars\obj\Debug\Cars.exe
+C:\Users\Roman\Downloads\Cars\Cars\obj\Debug\Cars.pdb
+C:\Users\Roman\Downloads\Cars (18.11.2021)\Cars\bin\Debug\Cars.exe.config
+C:\Users\Roman\Downloads\Cars (18.11.2021)\Cars\bin\Debug\Cars.exe
+C:\Users\Roman\Downloads\Cars (18.11.2021)\Cars\bin\Debug\Cars.pdb
+C:\Users\Roman\Downloads\Cars (18.11.2021)\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+C:\Users\Roman\Downloads\Cars (18.11.2021)\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Downloads\Cars (18.11.2021)\Cars\obj\Debug\Cars.exe
+C:\Users\Roman\Downloads\Cars (18.11.2021)\Cars\obj\Debug\Cars.pdb
+C:\Users\Roman\Downloads\Cars (19.11.2021)\Cars\bin\Debug\Cars.exe.config
+C:\Users\Roman\Downloads\Cars (19.11.2021)\Cars\bin\Debug\Cars.exe
+C:\Users\Roman\Downloads\Cars (19.11.2021)\Cars\bin\Debug\Cars.pdb
+C:\Users\Roman\Downloads\Cars (19.11.2021)\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+C:\Users\Roman\Downloads\Cars (19.11.2021)\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Downloads\Cars (19.11.2021)\Cars\obj\Debug\Cars.exe
+C:\Users\Roman\Downloads\Cars (19.11.2021)\Cars\obj\Debug\Cars.pdb
+C:\Users\Roman\Documents\MS VS\Cars (20.11.2021)\Cars\bin\Debug\Cars.exe.config
+C:\Users\Roman\Documents\MS VS\Cars (20.11.2021)\Cars\bin\Debug\Cars.exe
+C:\Users\Roman\Documents\MS VS\Cars (20.11.2021)\Cars\bin\Debug\Cars.pdb
+C:\Users\Roman\Documents\MS VS\Cars (20.11.2021)\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\MS VS\Cars (20.11.2021)\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\MS VS\Cars (20.11.2021)\Cars\obj\Debug\Cars.exe
+C:\Users\Roman\Documents\MS VS\Cars (20.11.2021)\Cars\obj\Debug\Cars.pdb
+C:\Users\roman\Documents\C#\Программирование\Cars (20.11.2021)\Cars\bin\Debug\Cars.exe.config
+C:\Users\roman\Documents\C#\Программирование\Cars (20.11.2021)\Cars\bin\Debug\Cars.exe
+C:\Users\roman\Documents\C#\Программирование\Cars (20.11.2021)\Cars\bin\Debug\Cars.pdb
+C:\Users\roman\Documents\C#\Программирование\Cars (20.11.2021)\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+C:\Users\roman\Documents\C#\Программирование\Cars (20.11.2021)\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\roman\Documents\C#\Программирование\Cars (20.11.2021)\Cars\obj\Debug\Cars.exe
+C:\Users\roman\Documents\C#\Программирование\Cars (20.11.2021)\Cars\obj\Debug\Cars.pdb

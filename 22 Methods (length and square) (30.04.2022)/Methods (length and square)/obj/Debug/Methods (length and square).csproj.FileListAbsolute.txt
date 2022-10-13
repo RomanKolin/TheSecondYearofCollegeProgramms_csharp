@@ -1,0 +1,20 @@
+C:\Users\roman\Downloads\Methods (length and square)\Methods (length and square)\bin\Debug\Methods (length and square).exe.config
+C:\Users\roman\Downloads\Methods (length and square)\Methods (length and square)\bin\Debug\Methods (length and square).exe
+C:\Users\roman\Downloads\Methods (length and square)\Methods (length and square)\bin\Debug\Methods (length and square).pdb
+C:\Users\roman\Downloads\Methods (length and square)\Methods (length and square)\obj\Debug\Methods (length and square).csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Methods (length and square)\Methods (length and square)\obj\Debug\Methods__length_and_square_.Form1lengthandsquare.resources
+C:\Users\roman\Downloads\Methods (length and square)\Methods (length and square)\obj\Debug\Methods__length_and_square_.Properties.Resources.resources
+C:\Users\roman\Downloads\Methods (length and square)\Methods (length and square)\obj\Debug\Methods (length and square).csproj.GenerateResource.cache
+C:\Users\roman\Downloads\Methods (length and square)\Methods (length and square)\obj\Debug\Methods (length and square).csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Methods (length and square)\Methods (length and square)\obj\Debug\Methods (length and square).exe
+C:\Users\roman\Downloads\Methods (length and square)\Methods (length and square)\obj\Debug\Methods (length and square).pdb
+C:\Users\roman\Downloads\Methods (length and square) (27.04.2022)\Methods (length and square)\bin\Debug\Methods (length and square).exe.config
+C:\Users\roman\Downloads\Methods (length and square) (27.04.2022)\Methods (length and square)\bin\Debug\Methods (length and square).exe
+C:\Users\roman\Downloads\Methods (length and square) (27.04.2022)\Methods (length and square)\bin\Debug\Methods (length and square).pdb
+C:\Users\roman\Downloads\Methods (length and square) (27.04.2022)\Methods (length and square)\obj\Debug\Methods (length and square).csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Methods (length and square) (27.04.2022)\Methods (length and square)\obj\Debug\Methods__length_and_square_.Form1lengthandsquare.resources
+C:\Users\roman\Downloads\Methods (length and square) (27.04.2022)\Methods (length and square)\obj\Debug\Methods__length_and_square_.Properties.Resources.resources
+C:\Users\roman\Downloads\Methods (length and square) (27.04.2022)\Methods (length and square)\obj\Debug\Methods (length and square).csproj.GenerateResource.cache
+C:\Users\roman\Downloads\Methods (length and square) (27.04.2022)\Methods (length and square)\obj\Debug\Methods (length and square).csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Methods (length and square) (27.04.2022)\Methods (length and square)\obj\Debug\Methods (length and square).exe
+C:\Users\roman\Downloads\Methods (length and square) (27.04.2022)\Methods (length and square)\obj\Debug\Methods (length and square).pdb

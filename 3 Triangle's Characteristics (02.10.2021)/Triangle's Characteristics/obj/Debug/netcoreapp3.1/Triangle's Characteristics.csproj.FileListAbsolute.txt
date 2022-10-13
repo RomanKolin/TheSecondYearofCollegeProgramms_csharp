@@ -1,0 +1,28 @@
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics\Triangle's Characteristics\bin\Debug\netcoreapp3.1\Triangle's Characteristics.exe
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics\Triangle's Characteristics\bin\Debug\netcoreapp3.1\Triangle's Characteristics.deps.json
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics\Triangle's Characteristics\bin\Debug\netcoreapp3.1\Triangle's Characteristics.runtimeconfig.json
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics\Triangle's Characteristics\bin\Debug\netcoreapp3.1\Triangle's Characteristics.runtimeconfig.dev.json
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics\Triangle's Characteristics\bin\Debug\netcoreapp3.1\Triangle's Characteristics.dll
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics\Triangle's Characteristics\bin\Debug\netcoreapp3.1\Triangle's Characteristics.pdb
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.AssemblyInfoInputs.cache
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.AssemblyInfo.cs
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.dll
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.pdb
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.genruntimeconfig.cache
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics (02.10.2021)\Triangle's Characteristics\bin\Debug\netcoreapp3.1\Triangle's Characteristics.exe
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics (02.10.2021)\Triangle's Characteristics\bin\Debug\netcoreapp3.1\Triangle's Characteristics.deps.json
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics (02.10.2021)\Triangle's Characteristics\bin\Debug\netcoreapp3.1\Triangle's Characteristics.runtimeconfig.json
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics (02.10.2021)\Triangle's Characteristics\bin\Debug\netcoreapp3.1\Triangle's Characteristics.runtimeconfig.dev.json
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics (02.10.2021)\Triangle's Characteristics\bin\Debug\netcoreapp3.1\Triangle's Characteristics.dll
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics (02.10.2021)\Triangle's Characteristics\bin\Debug\netcoreapp3.1\Triangle's Characteristics.pdb
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics (02.10.2021)\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics (02.10.2021)\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics (02.10.2021)\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.AssemblyInfoInputs.cache
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics (02.10.2021)\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.AssemblyInfo.cs
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics (02.10.2021)\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics (02.10.2021)\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.dll
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics (02.10.2021)\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.pdb
+C:\Users\Roman\Documents\MS VS\Triangle's Characteristics (02.10.2021)\Triangle's Characteristics\obj\Debug\netcoreapp3.1\Triangle's Characteristics.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+C:\Users\roman\Downloads\Employee's wage\Employee's wage\bin\Debug\Employee's wage.exe.config
+C:\Users\roman\Downloads\Employee's wage\Employee's wage\bin\Debug\Employee's wage.exe
+C:\Users\roman\Downloads\Employee's wage\Employee's wage\bin\Debug\Employee's wage.pdb
+C:\Users\roman\Downloads\Employee's wage\Employee's wage\obj\Debug\Employee's wage.csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Employee's wage\Employee's wage\obj\Debug\Employee's wage.csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Employee's wage\Employee's wage\obj\Debug\Employee's wage.exe
+C:\Users\roman\Downloads\Employee's wage\Employee's wage\obj\Debug\Employee's wage.pdb
+C:\Users\roman\Downloads\Employee's wage (04.03.2022)\Employee's wage\bin\Debug\Employee's wage.exe.config
+C:\Users\roman\Downloads\Employee's wage (04.03.2022)\Employee's wage\bin\Debug\Employee's wage.exe
+C:\Users\roman\Downloads\Employee's wage (04.03.2022)\Employee's wage\bin\Debug\Employee's wage.pdb
+C:\Users\roman\Downloads\Employee's wage (04.03.2022)\Employee's wage\obj\Debug\Employee's wage.csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Employee's wage (04.03.2022)\Employee's wage\obj\Debug\Employee's wage.csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Employee's wage (04.03.2022)\Employee's wage\obj\Debug\Employee's wage.exe
+C:\Users\roman\Downloads\Employee's wage (04.03.2022)\Employee's wage\obj\Debug\Employee's wage.pdb
+C:\Users\romankolin\OneDrive\Documents\C#\15 Employee's wage (04.03.2022)\Employee's wage\bin\Debug\Employee's wage.exe.config
+C:\Users\romankolin\OneDrive\Documents\C#\15 Employee's wage (04.03.2022)\Employee's wage\bin\Debug\Employee's wage.exe
+C:\Users\romankolin\OneDrive\Documents\C#\15 Employee's wage (04.03.2022)\Employee's wage\bin\Debug\Employee's wage.pdb
+C:\Users\romankolin\OneDrive\Documents\C#\15 Employee's wage (04.03.2022)\Employee's wage\obj\Debug\Employee's wage.csproj.AssemblyReference.cache
+C:\Users\romankolin\OneDrive\Documents\C#\15 Employee's wage (04.03.2022)\Employee's wage\obj\Debug\Employee's wage.csproj.CoreCompileInputs.cache
+C:\Users\romankolin\OneDrive\Documents\C#\15 Employee's wage (04.03.2022)\Employee's wage\obj\Debug\Employee's wage.exe
+C:\Users\romankolin\OneDrive\Documents\C#\15 Employee's wage (04.03.2022)\Employee's wage\obj\Debug\Employee's wage.pdb

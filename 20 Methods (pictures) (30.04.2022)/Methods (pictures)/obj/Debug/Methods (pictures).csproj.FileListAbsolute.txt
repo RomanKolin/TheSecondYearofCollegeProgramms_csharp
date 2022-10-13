@@ -1,0 +1,21 @@
+C:\Users\roman\Downloads\Methods (pictures)\Methods (pictures)\bin\Debug\Methods (pictures).exe.config
+C:\Users\roman\Downloads\Methods (pictures)\Methods (pictures)\bin\Debug\Methods (pictures).exe
+C:\Users\roman\Downloads\Methods (pictures)\Methods (pictures)\bin\Debug\Methods (pictures).pdb
+C:\Users\roman\Downloads\Methods (pictures)\Methods (pictures)\obj\Debug\Methods (pictures).csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Methods (pictures)\Methods (pictures)\obj\Debug\Methods (pictures).csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Methods (pictures)\Methods (pictures)\obj\Debug\Methods (pictures).exe
+C:\Users\roman\Downloads\Methods (pictures)\Methods (pictures)\obj\Debug\Methods (pictures).pdb
+C:\Users\roman\Downloads\Methods (pictures) (27.04.2022)\Methods (pictures)\bin\Debug\Methods (pictures).exe.config
+C:\Users\roman\Downloads\Methods (pictures) (27.04.2022)\Methods (pictures)\bin\Debug\Methods (pictures).exe
+C:\Users\roman\Downloads\Methods (pictures) (27.04.2022)\Methods (pictures)\bin\Debug\Methods (pictures).pdb
+C:\Users\roman\Downloads\Methods (pictures) (27.04.2022)\Methods (pictures)\obj\Debug\Methods (pictures).csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Methods (pictures) (27.04.2022)\Methods (pictures)\obj\Debug\Methods (pictures).csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Methods (pictures) (27.04.2022)\Methods (pictures)\obj\Debug\Methods (pictures).exe
+C:\Users\roman\Downloads\Methods (pictures) (27.04.2022)\Methods (pictures)\obj\Debug\Methods (pictures).pdb
+C:\Users\romankolin\OneDrive\Documents\C#\20 Methods (pictures) (30.04.2022)\Methods (pictures)\bin\Debug\Methods (pictures).exe.config
+C:\Users\romankolin\OneDrive\Documents\C#\20 Methods (pictures) (30.04.2022)\Methods (pictures)\bin\Debug\Methods (pictures).exe
+C:\Users\romankolin\OneDrive\Documents\C#\20 Methods (pictures) (30.04.2022)\Methods (pictures)\bin\Debug\Methods (pictures).pdb
+C:\Users\romankolin\OneDrive\Documents\C#\20 Methods (pictures) (30.04.2022)\Methods (pictures)\obj\Debug\Methods (pictures).csproj.AssemblyReference.cache
+C:\Users\romankolin\OneDrive\Documents\C#\20 Methods (pictures) (30.04.2022)\Methods (pictures)\obj\Debug\Methods (pictures).csproj.CoreCompileInputs.cache
+C:\Users\romankolin\OneDrive\Documents\C#\20 Methods (pictures) (30.04.2022)\Methods (pictures)\obj\Debug\Methods (pictures).exe
+C:\Users\romankolin\OneDrive\Documents\C#\20 Methods (pictures) (30.04.2022)\Methods (pictures)\obj\Debug\Methods (pictures).pdb

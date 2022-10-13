@@ -1,0 +1,21 @@
+C:\Users\roman\Downloads\Methods (recursion)\Methods (recursion)\bin\Debug\Methods (recursion).exe.config
+C:\Users\roman\Downloads\Methods (recursion)\Methods (recursion)\bin\Debug\Methods (recursion).exe
+C:\Users\roman\Downloads\Methods (recursion)\Methods (recursion)\bin\Debug\Methods (recursion).pdb
+C:\Users\roman\Downloads\Methods (recursion)\Methods (recursion)\obj\Debug\Methods (recursion).csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Methods (recursion)\Methods (recursion)\obj\Debug\Methods (recursion).csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Methods (recursion)\Methods (recursion)\obj\Debug\Methods (recursion).exe
+C:\Users\roman\Downloads\Methods (recursion)\Methods (recursion)\obj\Debug\Methods (recursion).pdb
+C:\Users\roman\Downloads\Methods (recursion) (04.05.2022)\Methods (recursion)\bin\Debug\Methods (recursion).exe.config
+C:\Users\roman\Downloads\Methods (recursion) (04.05.2022)\Methods (recursion)\bin\Debug\Methods (recursion).exe
+C:\Users\roman\Downloads\Methods (recursion) (04.05.2022)\Methods (recursion)\bin\Debug\Methods (recursion).pdb
+C:\Users\roman\Downloads\Methods (recursion) (04.05.2022)\Methods (recursion)\obj\Debug\Methods (recursion).csproj.AssemblyReference.cache
+C:\Users\roman\Downloads\Methods (recursion) (04.05.2022)\Methods (recursion)\obj\Debug\Methods (recursion).csproj.CoreCompileInputs.cache
+C:\Users\roman\Downloads\Methods (recursion) (04.05.2022)\Methods (recursion)\obj\Debug\Methods (recursion).exe
+C:\Users\roman\Downloads\Methods (recursion) (04.05.2022)\Methods (recursion)\obj\Debug\Methods (recursion).pdb
+C:\Users\romankolin\OneDrive\Documents\C#\23 Methods (recursion) (04.05.2022)\Methods (recursion)\bin\Debug\Methods (recursion).exe.config
+C:\Users\romankolin\OneDrive\Documents\C#\23 Methods (recursion) (04.05.2022)\Methods (recursion)\bin\Debug\Methods (recursion).exe
+C:\Users\romankolin\OneDrive\Documents\C#\23 Methods (recursion) (04.05.2022)\Methods (recursion)\bin\Debug\Methods (recursion).pdb
+C:\Users\romankolin\OneDrive\Documents\C#\23 Methods (recursion) (04.05.2022)\Methods (recursion)\obj\Debug\Methods (recursion).csproj.AssemblyReference.cache
+C:\Users\romankolin\OneDrive\Documents\C#\23 Methods (recursion) (04.05.2022)\Methods (recursion)\obj\Debug\Methods (recursion).csproj.CoreCompileInputs.cache
+C:\Users\romankolin\OneDrive\Documents\C#\23 Methods (recursion) (04.05.2022)\Methods (recursion)\obj\Debug\Methods (recursion).exe
+C:\Users\romankolin\OneDrive\Documents\C#\23 Methods (recursion) (04.05.2022)\Methods (recursion)\obj\Debug\Methods (recursion).pdb

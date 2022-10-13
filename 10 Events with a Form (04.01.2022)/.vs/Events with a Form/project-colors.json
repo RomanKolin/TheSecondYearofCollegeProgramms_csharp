@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5cc49219-f46e-49cf-8c31-a88ccea69fc1": {
+      "ProjectGuid": "5cc49219-f46e-49cf-8c31-a88ccea69fc1",
+      "DisplayName": "Events with a Form",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

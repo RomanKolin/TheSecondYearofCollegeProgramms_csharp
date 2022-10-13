@@ -1,0 +1,30 @@
+C:\Users\Roman\Downloads\Events with a Form\Events with a Form\bin\Debug\Events with a Form.exe.config
+C:\Users\Roman\Downloads\Events with a Form\Events with a Form\bin\Debug\Events with a Form.exe
+C:\Users\Roman\Downloads\Events with a Form\Events with a Form\bin\Debug\Events with a Form.pdb
+C:\Users\Roman\Downloads\Events with a Form\Events with a Form\obj\Debug\Events with a Form.csproj.AssemblyReference.cache
+C:\Users\Roman\Downloads\Events with a Form\Events with a Form\obj\Debug\Events_with_a_Form.Form1EventswithaForm.resources
+C:\Users\Roman\Downloads\Events with a Form\Events with a Form\obj\Debug\Events_with_a_Form.Properties.Resources.resources
+C:\Users\Roman\Downloads\Events with a Form\Events with a Form\obj\Debug\Events with a Form.csproj.GenerateResource.cache
+C:\Users\Roman\Downloads\Events with a Form\Events with a Form\obj\Debug\Events with a Form.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Downloads\Events with a Form\Events with a Form\obj\Debug\Events with a Form.exe
+C:\Users\Roman\Downloads\Events with a Form\Events with a Form\obj\Debug\Events with a Form.pdb
+C:\Users\Roman\Documents\Events with a Form\Events with a Form\bin\Debug\Events with a Form.exe.config
+C:\Users\Roman\Documents\Events with a Form\Events with a Form\bin\Debug\Events with a Form.exe
+C:\Users\Roman\Documents\Events with a Form\Events with a Form\bin\Debug\Events with a Form.pdb
+C:\Users\Roman\Documents\Events with a Form\Events with a Form\obj\Debug\Events with a Form.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\Events with a Form\Events with a Form\obj\Debug\Events_with_a_Form.Form1EventswithaForm.resources
+C:\Users\Roman\Documents\Events with a Form\Events with a Form\obj\Debug\Events_with_a_Form.Properties.Resources.resources
+C:\Users\Roman\Documents\Events with a Form\Events with a Form\obj\Debug\Events with a Form.csproj.GenerateResource.cache
+C:\Users\Roman\Documents\Events with a Form\Events with a Form\obj\Debug\Events with a Form.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\Events with a Form\Events with a Form\obj\Debug\Events with a Form.exe
+C:\Users\Roman\Documents\Events with a Form\Events with a Form\obj\Debug\Events with a Form.pdb
+C:\Users\roman\Documents\C#\Программирование\Events with a Form (04.01.2022)\Events with a Form\bin\Debug\Events with a Form.exe.config
+C:\Users\roman\Documents\C#\Программирование\Events with a Form (04.01.2022)\Events with a Form\bin\Debug\Events with a Form.exe
+C:\Users\roman\Documents\C#\Программирование\Events with a Form (04.01.2022)\Events with a Form\bin\Debug\Events with a Form.pdb
+C:\Users\roman\Documents\C#\Программирование\Events with a Form (04.01.2022)\Events with a Form\obj\Debug\Events with a Form.csproj.AssemblyReference.cache
+C:\Users\roman\Documents\C#\Программирование\Events with a Form (04.01.2022)\Events with a Form\obj\Debug\Events_with_a_Form.Form1EventswithaForm.resources
+C:\Users\roman\Documents\C#\Программирование\Events with a Form (04.01.2022)\Events with a Form\obj\Debug\Events_with_a_Form.Properties.Resources.resources
+C:\Users\roman\Documents\C#\Программирование\Events with a Form (04.01.2022)\Events with a Form\obj\Debug\Events with a Form.csproj.GenerateResource.cache
+C:\Users\roman\Documents\C#\Программирование\Events with a Form (04.01.2022)\Events with a Form\obj\Debug\Events with a Form.csproj.CoreCompileInputs.cache
+C:\Users\roman\Documents\C#\Программирование\Events with a Form (04.01.2022)\Events with a Form\obj\Debug\Events with a Form.exe
+C:\Users\roman\Documents\C#\Программирование\Events with a Form (04.01.2022)\Events with a Form\obj\Debug\Events with a Form.pdb
