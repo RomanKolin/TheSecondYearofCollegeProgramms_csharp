@@ -1,2 +1,2 @@
-# TheSecondYearofCollegeProgramms_csharp
-25 C# programms created in the second year of college
+There are 25 different programms on C#, which created in the second year of college.
+There are conditions, cycles, methods, arrays, database, graphics...
